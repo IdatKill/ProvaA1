@@ -4,4 +4,3 @@ export default interface Itens {
     categoria: string;
     criadoEm: string;
 }
-
